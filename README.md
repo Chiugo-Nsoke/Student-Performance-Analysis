@@ -13,7 +13,7 @@ This repository contains an analysis of factors influencing student performance.
 
 ### Prerequisites
 
-To run this project, ensure you have Python 3.7+ installed. The required libraries are listed in the `requirements.txt` file.
+To run this project, ensure you have Python 3.11+ installed. The required libraries are listed in the `requirements.txt` file.
 
 ### Installation
 
@@ -36,8 +36,6 @@ pip install ipywidgets
 jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension install --py widgetsnbextension
 ```
-
-Ipywidgets are used to create interactive controls in the notebook, enhancing the user experience by enabling dynamic adjustments to visualizations or inputs. For example, sliders can be used to filter data ranges or adjust parameters in real-time.
 
 ### Usage
 
