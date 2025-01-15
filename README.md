@@ -29,7 +29,7 @@ To run this project, ensure you have Python 3.11+ installed. The required librar
 
 ### Setting Up Ipywidgets
 
-This project also uses **ipywidgets** for interactive widgets in Jupyter Notebook. To install and enable ipywidgets, run the following commands:
+This project also uses **ipywidgets** for interactive widgets in Jupyter Notebook. To install and enable ipywidgets, run the following commands in Anaconda Prompt:
 
 ```bash
 pip install ipywidgets
